@@ -1,0 +1,3 @@
+[submodule "submodules/project_1_lib"]
+	path = submodules/project_1_lib
+	url = git@github.com:Vadixem/project_1_lib.git
